@@ -56,7 +56,9 @@ smiles/
 File format:
 
 smile_1.jpg
+
 smile_2.jpg
+
 ...
 
 ---
